@@ -30,25 +30,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JFCef5V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Identify the ticket that requires. This can be achieved by searching the ticket number or browsing the list of open tickets in osTicket application.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Iy7X2Du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the ticket and review the details Ensure that you understand described in the ticket and that you all the necessary information to resolve.</p>
+<br />
+<p>
+</p>
+<p>
+Take the necessary actions to resolve the issue. This involve troubleshooting the problem, providing or assistance to the user, escalating the ticket to another team or agent if necessary</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tMBv7Nz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Close the ticket Once the issue has been resolved, close the ticket by marking it assol" or "closed" in the osTicket application This action move the ticket to closed ticket list indicating that it been resolved. Additionally you may need to provide a brief summary or report on the resolution of the issue.
 </p>
 <br />
